@@ -1,0 +1,8 @@
+{
+    "appname": "wpm",
+    "default_config": {
+        "packages": {
+            "wpm": "1.0"
+        }
+    }
+}
